@@ -1526,6 +1526,13 @@
         }
       
     }
+        @media only screen and (max-width:414px)
+    {
+        .intro 
+        {
+            margin-bottom: 7rem;
+        }
+    }
     @media only screen and (max-width:320px)
     {
         .fact-item 
